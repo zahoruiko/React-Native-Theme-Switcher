@@ -41,6 +41,6 @@ const darkStyleSheet = StyleSheet.create({
   }
 });
 
-export default function getStyleSheet(useDarkTheme) {
-  return useDarkTheme ? darkStyleSheet : lightStyleSheet;
+export default function getStyleSheet(theme) {
+  return theme === 'dark' ? darkStyleSheet : lightStyleSheet;
 };
