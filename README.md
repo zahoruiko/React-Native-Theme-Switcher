@@ -1,6 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# An example of the implementation of switching dark and light themes in the React Native application
+# Example of the implementation of switching dark and light themes in the React Native application
 
 # Getting Started
 
